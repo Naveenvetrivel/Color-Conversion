@@ -133,8 +133,7 @@ cv2.destoryAllWindows()
 
 ### i) BGR and RGB to HSV and GRAY
 ## BGR TO HSV:
-![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/3504d9a1-6dd3-4c05-8342-dbe017d72224)
-
+/home/sec/Downloads/ori.png
 ### ii) HSV to RGB and BGR
 ![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/b8d55f4d-cad7-47e7-937e-03dda6a12cd3)
 ![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/c9d365e2-3002-4eeb-bb90-f25a9db86453)
