@@ -133,23 +133,25 @@ cv2.destoryAllWindows()
 
 ### i) BGR and RGB to HSV and GRAY
 ## BGR TO HSV:
+![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/cd486bae-ce2b-406e-9487-7adb1e3fff0a)
+![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/2c2ed10f-c79e-400a-aee3-b0449c25199c)
+![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/062c3ad4-1454-4d5a-9f5b-0a5646668442)
+![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/10ee451a-00e3-4abc-a006-b9535d2cda10)
+![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/5524f7fa-a7b3-4aff-b7d6-e3598a1e0fe3)
 
 ### ii) HSV to RGB and BGR
-<br>
-<br>
+![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/b8d55f4d-cad7-47e7-937e-03dda6a12cd3)
+![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/c9d365e2-3002-4eeb-bb90-f25a9db86453)
 
 ### iii) RGB and BGR to YCrCb
-<br>
-<br>
+![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/2b9f233e-3aea-444e-8527-6e4ea1397ae6)
+![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/42c64a21-fa84-408f-8a69-ffc33f1a9d09)
 
 ### iv) Split and merge RGB Image
-<br>
-<br>
+![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/afbc9e1e-b309-4353-b308-b85f76ab4925)
 
 ### v) Split and merge HSV Image
-<br>
-<br>
-
+![image](https://github.com/Naveenvetrivel/Color-Conversion/assets/94165322/85309b5b-39b0-4535-b394-920ae0a196be)
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
