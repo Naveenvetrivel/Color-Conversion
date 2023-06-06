@@ -40,7 +40,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows
 
 # BGR TO GRAY
-
+~~~
 import cv2
 image =cv2.imread('ship.jpg')
 cv2.imshow('original',image)
@@ -150,7 +150,7 @@ merger = cv2.merge([b,g,r])
 cv2.imshow("MERGED IMAGE", merger )
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
+~~~
 ## Output:
 # ORIGINAL IMAGE:
 ![image](https://user-images.githubusercontent.com/94165322/231366900-7756e75b-fb89-4149-b064-6460d673eae0.png)
